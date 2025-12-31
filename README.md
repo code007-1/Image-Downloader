@@ -3,6 +3,6 @@ Download category wise or all image with desired resolution from '4kwallpapers.c
 
 ## Usage 
 1. Clone Repo
-2. install dependecies => pip install -r requirements.txt
-3. change paramters in main.py according to your needs and run the file
+2. Install dependecies => pip install -r requirements.txt
+3. Change paramters in main.py according to your needs and run the file
 
